@@ -10,9 +10,9 @@ Arsenal art contemporain 2020, rue William, Montréal
 
 2022/02/09
 
-Description de l'oeuvre ou du dispositif multimédia (à composer ou reprendre la description offerte sur le site de l'artiste ou le cartel de l'exposition en citant bien sa source)
+Unfold est une oeuvre qui represente le cinéma sur 3 ecran qui forme un effet 3d avec un plancher qui vibre et un son surround 6.1.1 pour un effet imersif. Un video est jouer de 8 minutes en HD qui démontre l'espace et plusieurs autres images en flux numériques.
 
-Explications sur la mise en espace de l'oeuvre ou du dispositif (texte à composer)
+L'exposition est une grande platforme avec 8 transducteurs qui vibre avec des grands haut parleurs tout autour pour donner un son surround et 3 ecran mis en 90 degree qui couvre un coté jusqu'au plafond.
 
 Liste des composantes et techniques de l'oeuvre ou du dispositif (ex. : réalité virtuelle, projecteurs, caméra USB, anneau lumineux...)
 
