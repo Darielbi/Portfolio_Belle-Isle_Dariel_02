@@ -14,7 +14,8 @@ Unfold est une oeuvre qui represente le cinéma sur 3 ecran qui forme un effet 3
 
 L'exposition est une grande platforme avec 8 transducteurs qui vibre avec des grands haut parleurs tout autour pour donner un son surround et 3 ecran mis en 90 degree qui couvre un coté jusqu'au plafond.
 
-Liste des composantes et techniques de l'oeuvre ou du dispositif (ex. : réalité virtuelle, projecteurs, caméra USB, anneau lumineux...)
+L'oeuvre est composé de 3 projecteur, un au plafond, un sur un angle de 45 degree 
+*Liste des composantes et techniques de l'oeuvre ou du dispositif (ex. : réalité virtuelle, projecteurs, caméra USB, anneau lumineux...)
 
 Liste des éléments nécessaires pour la mise en exposition (ex. : crochets, sac de sable, câbles de soutien...)
 
