@@ -26,9 +26,9 @@ Expérience vécue :
 Cette oeuvre est très immersive avec des sons vraiment fort qui couvre tous les autres oeuvres dans le musé. Le plancher qui vibre en lien avec le son rend l'oeuvre encore plus ammusante à experimenter  
 Description de votre expérience de l'oeuvre ou du dispositif, de l'interactivité, des gestes à poser, etc.
 
-Ce qui ma plu de cette oeuvre est la grosseur de l'oeuvre 
+Ce qui ma plu de cette oeuvre est la grosseur de l'oeuvre avec l'ecran qui couvre un angle de 90 degree. 
 
-Il n'a pas vraiment d'aspect auquel 
+Un aspect auquel il peut avoir de l'amelioration est la hauteur du plancher vibrant comparé à la hauteur du ciment de la batisse. 
 
 Références
 La carte de l'oeuvre Unfold de Ryoichi Kurokawa (BIAN) 
