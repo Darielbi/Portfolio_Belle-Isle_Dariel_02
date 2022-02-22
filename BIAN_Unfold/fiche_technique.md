@@ -23,11 +23,10 @@ L'oeuvre est composé de 3 projecteur, deux projecteur acroché au plafond dont 
 Les éléments nécessaires pour la mise en exposition est un grand espace avec un toit pour accrocher les projecteurs. Pour les haut-parleur, ils ont leurs propre trépied. Les 3 ecrans sont attacher au plafond avec des grands cables de metal.
 
 Expérience vécue :
-
 Cette oeuvre est très immersive avec des sons vraiment fort qui couvre tous les autres oeuvres dans le musé. Le plancher qui vibre en lien avec le son rend l'oeuvre encore plus ammusante à experimenter  
 Description de votre expérience de l'oeuvre ou du dispositif, de l'interactivité, des gestes à poser, etc.
 
-Ce qui vous a plu, vous a donné des idées et justifications
+Ce qui ma plu de cette oeuvre est la grosseur de l'oeuvre 
 
 Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement et justifications
 
