@@ -28,7 +28,7 @@ Description de votre expérience de l'oeuvre ou du dispositif, de l'interactivit
 
 Ce qui ma plu de cette oeuvre est la grosseur de l'oeuvre 
 
-Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement et justifications
+Il n'a pas vraiment d'aspect auquel 
 
 Références
 La carte de l'oeuvre Unfold de Ryoichi Kurokawa (BIAN) 
