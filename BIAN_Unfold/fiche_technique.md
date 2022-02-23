@@ -16,6 +16,7 @@ L'exposition est une grande platforme avec 8 transducteurs qui vibre avec des gr
 ![Photo](photo/unfold_principale.jpg)
 
 L'oeuvre est composé de 3 projecteur, deux projecteur acroché au plafond dont un sur un angle de 45 degree et l'autre qui vise le plancher. Le troisième est en arriere de l'oeuvre avec le tableau de commande et un haut parleur. Il y a 5 haut parleur au total dans l'oeuvre un a l'arriere est deux chaque coté le tout est relier avec des fils qui passent en dessous du plancher vibrant. Tous les fils sont recouvert par du tape noir pour ne pas paraitre. Pour le tableau de commande fait jouer un video en HD de 8 minutes montrant des images de l'espace et plusieurs autres effets numeriques.
+
 ![Photo](photo/unfold_projecteur1.jpg)
 ![Photo](photo/unfold_projecteur2.jpg)
 ![Photo](photo/unfold_commande.jpg)
