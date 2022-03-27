@@ -1,6 +1,6 @@
 Chronaufrage
 
-![Photo](../media/Chronofrage.jpg)
+![Photo](media/Chronofrage.jpg)
 
 Artistes: Maloney Khim, Sounthida Kong, Olivier Lalonde, Rebecca Pilotte, Émilie Fontaine
 
