@@ -1,10 +1,10 @@
 Chronaufrage
 
-![Photo](media/Chronofrage.jpg)
-
 Artistes: Maloney Khim, Sounthida Kong, Olivier Lalonde, Rebecca Pilotte, Émilie Fontaine
 
 2022
+
+![Photo](media/Chronofrage.jpg)
 
 Moebius : Projets synthèse des finissants en techniques d'intégration multimédia du collège Montmorency.
 
