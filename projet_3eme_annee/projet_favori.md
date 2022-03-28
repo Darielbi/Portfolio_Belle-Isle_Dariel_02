@@ -26,4 +26,9 @@ L'effet de 3d avec la toile et les tableaux était très beau et il donne un asp
 
 Ordre des oeuvres de Moebius:
 
-- Le premier reste Chronaufrage 
+- Le premier est Chronaufrage car l'oeuvre ma surpris quand j'ai rentré dans la salle a voir l'effet 3d et les animations qui rend un effet interactif au tableau est étonnant.  
+- Le deuxième est L'Horloge de l'apocalypse parce que je trouve que c'est l'oeuvre qui represente plus le thème du temps et la music qui a été choisi pour chaque heure est vraiment bonne et represente bien chaque époque.
+- Le troisième est Chère Sasha, j'ai été beaucoup impressionné quand j'ai fait l'experience par tous les détailles qu'ils ont mis dans l'oeuvre avec les livres bien remplis et les téléphones qui sonne et aussi les lumières qui aide beaucoup a nous situer dans l'oeuvre.
+- Le 4eme est 3 Minutes, le jeu de VR etait bien mais j'ai beaucoup aimer le casier dans le noir apres avoir jouer a VR, mes yeux avais de la difficulter a s'adapter ce qui a rendu l'experience vraiment interesente et imersive.
+- Le 5eme est Distorsion collective car j'ai trouver que l'oeuvre avait beaucoup de long passage a attendre et pas asser de interaction.
+- Le dernier est le Jeu temporel, l'oeuvre avait beaucoup d'interaction avec le visionneur mais j'ai trouver les réponses au question un peu aleatoire sur certaine question. 
