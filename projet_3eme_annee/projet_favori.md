@@ -22,3 +22,8 @@ L'oeuvre est composé de un projecteur, une kinect, une camera et un programme s
 La mise en exposistion est composé de une barrière qui protege les tableaux et des attaches qui vienne du plafond qui tien les tableaux dans les airs.
 
 L'effet de 3d avec la toile et les tableaux était très beau et il donne un aspect vivant dans l'oeuvre. Le fait de pouvoir interagir avec un tableau est vraiment original. 
+
+
+Ordre des oeuvres de Moebius:
+
+- Le premier reste Chronaufrage 
