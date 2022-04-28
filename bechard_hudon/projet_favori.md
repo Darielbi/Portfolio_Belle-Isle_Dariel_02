@@ -20,13 +20,15 @@ L'oeuvre est composé de deux formes avec plusieurs trous a l'interieur et des l
 
 ![photo](media/arriere_carre.jpg)
 
-Liste des composantes et techniques de l'oeuvre ou du dispositif (ex. : réalité virtuelle, projecteurs, caméra USB, anneau lumineux...)
+L'oeuvre est composé de plusieurs lumière et des barres de métal qui servent a tenir l'oeuvre en place et donne la possiblité au visiteur de voir le mechanisme a l'arrière de l'oeuvre. Il y a aussi plusieurs fils qui ne sont pas cacher pour permettre a l'oeuvre de bouger et d'alumer les lumières
 
-Liste des éléments nécessaires pour la mise en exposition (ex. : crochets, sac de sable, câbles de soutien...)
+![photo](media/cote_carre.jpg)
+
+Fils, barre de métal, chaines, spring, disque et un moteur pour faire bouger l'oeuvre. L'oeuvre est attacher ensemble a l'aide de vise. Un grand paneau de bois pour l'arrière plan de l'oeuvre.
 
 Expérience vécue :
 
-Description de votre expérience de l'oeuvre ou du dispositif, de l'interactivité, des gestes à poser, etc.
+Pas beaucoup d'interaction avec cet oeuvre mais l'effet optique est très bien realisé et 
 
 Ce qui vous a plu, vous a donné des idées et justifications
 
