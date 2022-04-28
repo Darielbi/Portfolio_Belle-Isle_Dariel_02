@@ -6,7 +6,7 @@ Triangle et carré 2020 et cercle 2021
 
 Configurations du sensible, 2022
 
-![photo]()
+![photo](media/configurations_sensible.png)
 
 Maison des Arts de Laval
 
