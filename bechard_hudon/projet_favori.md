@@ -30,8 +30,9 @@ Expérience vécue :
 
 Pas beaucoup d'interaction avec cet oeuvre mais l'effet optique est très bien realisé.
 
-Ce qui vous a plu, vous a donné des idées et justifications
+J'ai aimé que l'oeuvre soit ouvert et que les artistes n'ont rien caché. (fils et machanisme).
 
-Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement et justifications
+Changer comment les formes bougent sur l'oeuvre du cercle et triangle, car effet etais beaucoup moin present et peut etre changer la couleur de la deuxième forme aulieu du noir.
 
 Références
+![site](https://bechardhudon.com/)
