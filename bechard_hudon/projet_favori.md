@@ -18,6 +18,8 @@ L'oeuvre est divisé en trois parti avec differente forme qui bougent de facon u
 
 L'oeuvre est composé de deux formes avec plusieurs trous a l'interieur et des lumieres en dessous. Les deux formes bougent lentement pour créé un effet avec la lumiere qui est derière les formes. Il a aussi un mechanisme en arrière de l'oeuvre qui est exposé au publique pour voir comment l'oeuvre fonctionne et comment elle a été produit.
 
+![photo](media/arriere_carre.jpg)
+
 Liste des composantes et techniques de l'oeuvre ou du dispositif (ex. : réalité virtuelle, projecteurs, caméra USB, anneau lumineux...)
 
 Liste des éléments nécessaires pour la mise en exposition (ex. : crochets, sac de sable, câbles de soutien...)
