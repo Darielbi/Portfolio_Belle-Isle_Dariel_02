@@ -28,7 +28,7 @@ Fils, barre de métal, chaines, spring, disque et un moteur pour faire bouger l'
 
 Expérience vécue :
 
-Pas beaucoup d'interaction avec cet oeuvre mais l'effet optique est très bien realisé et 
+Pas beaucoup d'interaction avec cet oeuvre mais l'effet optique est très bien realisé.
 
 Ce qui vous a plu, vous a donné des idées et justifications
 
