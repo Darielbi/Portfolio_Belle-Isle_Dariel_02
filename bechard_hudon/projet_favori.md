@@ -6,11 +6,13 @@ Triangle et carré 2020 et cercle 2021
 
 Configurations du sensible, 2022
 
+![photo]()
+
 Maison des Arts de Laval
 
-mars 16 2022
+Mars 16 2022
 
-Description de l'oeuvre ou du dispositif multimédia (à composer ou reprendre la description offerte sur le site de l'artiste ou le cartel de l'exposition en citant bien sa source)
+L'oeuvre est composé de 3 
 
 Explications sur la mise en espace de l'oeuvre ou du dispositif (texte à composer)
 
