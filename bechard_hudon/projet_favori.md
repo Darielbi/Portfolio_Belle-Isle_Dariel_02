@@ -1,14 +1,14 @@
-Titre de l'oeuvre ou de la réalisation
+Mécanismes de dessaisissement (rond, carré, triangle)
 
-Nom de l'artiste ou de la firme
+Catherine Béchard et Sabin Hudon
 
-Année de réalisation
+Triangle et carré 2020 et cercle 2021
 
-Nom de l'exposition ou de l'événement
+Configurations du sensible, 2022
 
-Lieu de mise en exposition
+Maison des Arts de Laval
 
-Date de votre visite
+mars 16 2022
 
 Description de l'oeuvre ou du dispositif multimédia (à composer ou reprendre la description offerte sur le site de l'artiste ou le cartel de l'exposition en citant bien sa source)
 
