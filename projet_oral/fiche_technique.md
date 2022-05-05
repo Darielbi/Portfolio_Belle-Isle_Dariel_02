@@ -24,3 +24,12 @@ Photo prise par : David Weitzenfeld
 
 Novembre 2021
 
+# Présentation de l'oeuvre détaillée
+
+L'oeuvre est composé de 14 haut-parleurs qui sont géré par un logiciel sur mesure basé sur des technologies open sources.
+Les haut-parleurs sont suspendu du plafond differente hauteur.
+![photo](media/principale2)
+
+L'oeuvre utilise 4 kinect pour cibler le visiteur et faire jouer des sons different selon l'emplacement.
+![photo](media/kinect3)
+
