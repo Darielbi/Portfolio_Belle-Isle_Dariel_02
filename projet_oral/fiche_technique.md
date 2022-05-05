@@ -28,8 +28,10 @@ Novembre 2021
 
 L'oeuvre est composé de 14 haut-parleurs qui sont géré par un logiciel sur mesure basé sur des technologies open sources.
 Les haut-parleurs sont suspendu du plafond differente hauteur.
+
 ![photo](media/principale2.jpg)
 
 L'oeuvre utilise 4 kinect pour cibler le visiteur et faire jouer des sons different selon l'emplacement.
+
 ![photo](media/kinect3.jpg)
 
