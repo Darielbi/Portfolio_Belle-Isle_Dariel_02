@@ -18,6 +18,5 @@ ecran qui explique l'oeuvre avec bouton pour start le video
 
 imersion etais un peut ruiner a cause des l'autre oeuvre autour
 
-lien entre oeuvre : Chronofrage pour l'interaction avec kinect
-                    Sphere packing de Rafael Lozano-Hemmer avec le melange de sons
+lien entre oeuvre : Chronofrage pour l'interaction avec kinect, Sphere packing de Rafael Lozano-Hemmer avec le melange de sons
                     
