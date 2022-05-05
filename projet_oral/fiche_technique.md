@@ -43,5 +43,9 @@ Pour l'expérience vécue, il suffi de se positionner sur different endroit et d
 
 L'emplacement ou etais situer l'oeuvre etais vraiment bruyant alors l'immersion n'etais pas la meilleur et j'avais aussi beaucoup de difficulter a entendre les differents bruits.
 
-Pour les liens avec d'autre oeuvre, il y en a deux qui mattire. La première est Chronofrage a cause de comment l'interaction est fait. Les deux oeuvres dépend du visiteur et de ou il est placer. Pour la deuxième oeuvre 
+Pour les liens avec d'autre oeuvre, il y en a deux qui mattire. La première est Chronofrage a cause de comment l'interaction est fait. Les deux oeuvres dépend du visiteur et de ou il est placer. 
+
+![photo](media/Chronofrage.jpg)
+
+Pour la deuxième oeuvre qui a un lien avec Horizons, j'ai choisi
 
