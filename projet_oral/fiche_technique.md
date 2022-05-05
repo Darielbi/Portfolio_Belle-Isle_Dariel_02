@@ -47,5 +47,7 @@ Pour les liens avec d'autre oeuvre, il y en a deux qui mattire. La première est
 
 ![photo](media/Chronofrage.jpg)
 
-Pour la deuxième oeuvre qui a un lien avec Horizons, j'ai choisi
+Pour la deuxième oeuvre qui a un lien avec Horizons, j'ai choisi Sphere Packing créé par Rafael Lozano-Hemmer, car les deux oeuvre sont composé d'un mélange de plusieurs sons.
+
+![photo](media/sphere.png)
 
