@@ -35,7 +35,7 @@ L'oeuvre utilise 4 kinect pour cibler le visiteur et faire jouer des sons differ
 
 ![photo](media/kinect3.jpg)
 
-Il y a plusieurs cible sur le plancher qui déclanche une differente serie de sons pour chaque. Il y a des sons de Nature, des voix, de la musique et aussi des bruits de machine. Tout est présenter avec un effet de surround sound ou comme l'oeuvre le présente : soundscape (paysage sonore) qui a été inventé par le compisiteur Canadien R. Murrau Schafer en 1977.
+Il y a plusieurs cible sur le plancher qui déclanche une differente serie de sons pour chaque. Il y a des sons de Nature, des voix, de la musique et aussi des bruits de machine. Tout est présenter avec un effet de surround sound ou comme l'oeuvre le présente : Soundscape (paysage sonore) qui a été inventé par le compisiteur Canadien R. Murrau Schafer en 1977.
 
 ![photo](media/plancher.jpg)
 
