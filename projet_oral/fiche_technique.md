@@ -5,13 +5,11 @@ Art sonore interactif
 ![photo](media/principale1.jpg)
 
 
-
-
 Horizons
 
 Créé par Artificiel
-Montréal (Québec)
+Alexandre Burton
 
 2017
 
-
+Canada Science and Technology Museum
