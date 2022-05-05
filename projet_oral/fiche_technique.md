@@ -39,7 +39,7 @@ Il y a plusieurs cible sur le plancher qui déclanche une differente serie de so
 
 ![photo](media/plancher.jpg)
 
-Pour l'expérience vécue, il suffi de se positionner sur different endroit et d'écouter les differents sons. 
+Pour l'expérience vécue, il suffi de se positionner sur different endroit et d'écouter les differents sons. Il y a aussi une écran qui explique l'oeuvre avec un bouton pour faire jouer la vidéo expliquative.
 
 L'emplacement ou etais situer l'oeuvre etais vraiment bruyant alors l'immersion n'etais pas la meilleur et j'avais aussi beaucoup de difficulter a entendre les differents bruits.
 
