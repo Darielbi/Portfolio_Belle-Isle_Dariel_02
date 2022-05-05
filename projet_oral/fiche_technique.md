@@ -39,3 +39,7 @@ Il y a plusieurs cible sur le plancher qui déclanche une differente serie de so
 
 ![photo](media/plancher.jpg)
 
+Pour l'expérience vécue, il suffi de le positionner sur different endroit et d'écouter les differents sons. L'emplacement ou etais situer l'oeuvre etais vraiment bruyant alors l'immersion n'etais pas la meilleur et j'avais aussi beaucoup de difficulter a entendre les differents bruits.
+
+Pour les liens avec d'autre oeuvre, il y en a deux qui mattire. La première est Chronofrage a cause de comment l'interaction est fait. Les deux oeuvres dépend du visiteur et de ou il est placer. Pour la deuxième oeuvre 
+
