@@ -18,7 +18,7 @@ Ottawa, Ontario, Canada
 
 2 Mars, 2022
 
-![photo](media/musee.jpg)
+![photo](media/musee.png)
 
 Photo prise par : David Weitzenfeld 
 
