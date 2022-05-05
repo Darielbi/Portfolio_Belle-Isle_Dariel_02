@@ -1,4 +1,4 @@
-#L'oeuvre :  Horizons
+# L'oeuvre :  Horizons
 
 Art sonore interactif
 
