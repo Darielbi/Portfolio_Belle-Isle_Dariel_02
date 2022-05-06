@@ -53,5 +53,6 @@ Pour la deuxième oeuvre qui a un lien avec Horizons, j'ai choisi Sphere Packing
 
 # Conclusion
 
+Horizons est une oeuvre d'art sonore interatif qui utilise le surround sound comme aspect principale avec un mélange de bruit different.
 
-
+Un élément inspirant que j'ai retenu est la variété des oeuvres, car il peut avoir des oeuvres qui sont basé sur le visuel, d'autre sur le son, d'autre sur l'interraction avec le visiteur.
