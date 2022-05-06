@@ -1,1 +1,1 @@
-Compte-rendu et appréciation 250 a 300 mots
+Compte-rendu et appréciation de la présentation durant la semaine des arts
